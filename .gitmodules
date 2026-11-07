@@ -1,0 +1,9 @@
+[submodule "model-atlas-android"]
+	path = model-atlas-android
+	url = https://github.com/chenlongapps/model-atlas-android.git
+[submodule "model-atlas-data"]
+	path = model-atlas-data
+	url = https://github.com/chenlongapps/model-atlas-data.git
+[submodule "model-atlas-logo"]
+	path = model-atlas-logo
+	url = https://github.com/chenlongapps/model-atlas-logo.git
