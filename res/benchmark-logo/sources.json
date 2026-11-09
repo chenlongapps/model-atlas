@@ -1,0 +1,170 @@
+{
+  "collected_at": "2026-11-09",
+  "assets": [
+    {
+      "id": "artificial-analysis-intelligence-index",
+      "name": "Artificial Analysis Intelligence Index",
+      "file": "artificial-analysis-intelligence-index.svg",
+      "website": "https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index",
+      "source_url": "https://artificialanalysis.ai/img/logo-icon.svg",
+      "kind": "organization-logo",
+      "note": "Artificial Analysis 官方图标；与 GDPval-AA 共用。",
+      "sha256": "132ad19b4ea8ac29a754e86f37c9b3451ca3a2f4a999c5969d4ef47e32c778aa"
+    },
+    {
+      "id": "automationbench",
+      "name": "AutomationBench",
+      "file": "automationbench.svg",
+      "website": "https://zapier.com/benchmarks",
+      "source_url": "https://zapier.com/",
+      "kind": "organization-logo",
+      "note": "评测页未找到独立 Logo；从 Zapier 官网页头 aria-label=\"Zapier\" 的链接内提取 SVG，保留原始图形与配色。",
+      "sha256": "8a9258f321cb099f07377374597112ae5128d638ab009dbd75b678b33a32db6c"
+    },
+    {
+      "id": "chartography",
+      "name": "Chartography",
+      "file": "chartography.svg",
+      "website": "https://surgehq.ai/benchmarks/chartography",
+      "source_url": "https://cdn.prod.website-files.com/68dc970bd6e945ea3fb0f426/68e340b3dfa20e2c97749a3a_Logo.svg",
+      "kind": "organization-logo",
+      "note": "评测页页头使用的 Surge AI 官方字标。",
+      "sha256": "3de51ea915c0fc41b1bf57b1f0d24bc58a81667ecc157d8de757dd288b5307fe"
+    },
+    {
+      "id": "deepswe",
+      "name": "DeepSWE",
+      "file": "deepswe.svg",
+      "website": "https://deepswe.datacurve.ai/",
+      "source_url": "https://deepswe.datacurve.ai/favicon.svg",
+      "kind": "website-icon",
+      "note": "DeepSWE 官网 favicon，图形为 Datacurve 标识。",
+      "sha256": "b25c9ac39910579ceb0273edd74691efa93824fe720da7683900cd2578ab3968"
+    },
+    {
+      "id": "gdpval-aa",
+      "name": "GDPval-AA",
+      "file": "gdpval-aa.svg",
+      "website": "https://artificialanalysis.ai/evaluations/gdpval-aa",
+      "source_url": "https://artificialanalysis.ai/img/logo-icon.svg",
+      "kind": "organization-logo",
+      "note": "Artificial Analysis 官方图标；与 Intelligence Index 共用。",
+      "sha256": "132ad19b4ea8ac29a754e86f37c9b3451ca3a2f4a999c5969d4ef47e32c778aa"
+    },
+    {
+      "id": "humanitys-last-exam",
+      "name": "Humanity's Last Exam",
+      "file": "humanitys-last-exam.svg",
+      "website": "https://lastexam.ai/",
+      "source_url": "https://lastexam.ai/_next/static/media/hle_logo.42325f6d.svg",
+      "kind": "benchmark-logo",
+      "note": "HLE 官网原始版本 Logo，非 HLE-Diamond。",
+      "sha256": "395c09a86fed4c2e3842a72ca09c0abdeadc7a8193fd344314e72ef29190690d"
+    },
+    {
+      "id": "osworld",
+      "name": "OSWorld",
+      "file": "osworld.svg",
+      "website": "https://osworld-v2.xlang.ai/",
+      "source_url": "https://osworld-v2.xlang.ai/static/images/favicon.png",
+      "kind": "website-icon",
+      "note": "OSWorld 2.0 官网 PNG 图标矢量化版本，200×200，黑色图形、透明背景。",
+      "sha256": "2194636c20eb254a601a56043c76158325b72f43207616fe00b39623bc9e11ed",
+      "original": {
+        "file": "originals/osworld.png",
+        "sha256": "ba18d438fb3d96e7cd14d1a58be20b06cb35102c1cb3665abf8c1768435ed905"
+      },
+      "conversion": {
+        "tool": "VTracer Python 0.6.15",
+        "method": "按原图主色分离并描摹为 Bézier 路径；alpha 阈值 128；保留原始画布与背景。 描摹前按 Lanczos 放大 4 倍，生成路径缩回原始尺寸。",
+        "mode": "spline",
+        "filter_speckle": 0,
+        "corner_threshold": 60,
+        "length_threshold": 3.5,
+        "max_iterations": 10,
+        "splice_threshold": 45,
+        "path_precision": 3,
+        "supersampling": 4
+      }
+    },
+    {
+      "id": "swe-bench-pro",
+      "name": "SWE-bench Pro",
+      "file": "swe-bench-pro.svg",
+      "website": "https://labs.scale.com/leaderboard/swe_bench_pro_public_v2",
+      "source_url": "https://labs.scale.com/images/logo-scale-labs.svg?v=2",
+      "kind": "organization-logo",
+      "note": "官方排行榜页头使用的 Scale Labs 字标。",
+      "sha256": "2e3e087c3928df0dbf5b76190ea2ca93d441b37bb18e1ccda2100d330e191a85"
+    },
+    {
+      "id": "terminal-bench-science",
+      "name": "Terminal-Bench-Science",
+      "file": "terminal-bench-science.svg",
+      "website": "https://terminal-bench-science.ai/",
+      "source_url": "https://terminal-bench-science.ai/favicon.svg?v=7",
+      "kind": "website-icon",
+      "note": "独立官网 SVG favicon；另附从官方仓库 PNG 矢量化的完整 Logo SVG。",
+      "sha256": "b0de02ced5a65d67f5ba0d35910a72654f641c27a02ded022694899cd7d15c39",
+      "alternatives": [
+        {
+          "file": "terminal-bench-science-logo.svg",
+          "source_url": "https://raw.githubusercontent.com/harbor-framework/terminal-bench-science/main/assets/tb-science-logo-light-bold.png",
+          "kind": "benchmark-logo",
+          "note": "从官方仓库浅色背景用 PNG 完整 Logo 矢量化，2449×468，透明背景。",
+          "sha256": "1b1a2e1e5e8f5c87916049d862c9945215f30dce06c1fc4d0bf3ef52a023218d",
+          "original": {
+            "file": "originals/terminal-bench-science-logo.png",
+            "sha256": "408d8552899e8f0cec5d9f0bfa7b4f02836d6d4f46cf08266bc5e9768d12cfd0"
+          },
+          "conversion": {
+            "tool": "VTracer Python 0.6.15",
+            "method": "按原图主色分离并描摹为 Bézier 路径；alpha 阈值 128；保留原始画布与背景。",
+            "mode": "spline",
+            "filter_speckle": 0,
+            "corner_threshold": 60,
+            "length_threshold": 3.5,
+            "max_iterations": 10,
+            "splice_threshold": 45,
+            "path_precision": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": "terminal-bench",
+      "name": "Terminal-Bench",
+      "file": "terminal-bench.svg",
+      "website": "https://www.tbench.ai/",
+      "source_url": "https://www.tbench.ai/fav.png",
+      "kind": "website-icon",
+      "note": "官网 PNG 图标矢量化版本，512×512，保留黑底白色终端符号。",
+      "sha256": "ef9da853ea56a78eaf1e01c9c99fa0d25c87890eb781bafb58a15b4dbcb10c19",
+      "original": {
+        "file": "originals/terminal-bench.png",
+        "sha256": "6c182cedf0e094f04e8fe8e1f7f6ea790699925500035faa40884f98c4863ab4"
+      },
+      "conversion": {
+        "tool": "VTracer Python 0.6.15",
+        "method": "按原图主色分离并描摹为 Bézier 路径；alpha 阈值 128；保留原始画布与背景。",
+        "mode": "spline",
+        "filter_speckle": 0,
+        "corner_threshold": 60,
+        "length_threshold": 3.5,
+        "max_iterations": 10,
+        "splice_threshold": 45,
+        "path_precision": 3
+      }
+    },
+    {
+      "id": "vals-index",
+      "name": "Vals Index",
+      "file": "vals-index.svg",
+      "website": "https://www.vals.ai/benchmarks/vals_index",
+      "source_url": "https://www.vals.ai/Logos/vals-full.svg",
+      "kind": "organization-logo",
+      "note": "Vals Index 官方页面页头的 Vals AI 字标。",
+      "sha256": "8fec037b8b2336bc54b0ad80a42adcdf2777fa900f39ec51c9518708c9790bf1"
+    }
+  ]
+}

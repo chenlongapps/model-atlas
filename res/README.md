@@ -1,6 +1,8 @@
 # Logo 资源说明
 
-Model Atlas 使用的全部 SVG logo 资产，来源为 [models.dev](https://models.dev) 的 Logos 服务，按用途分为三个目录，另附一个占位兜底图。
+Model Atlas 的 Logo 资源包括来自 [models.dev](https://models.dev) Logos 服务的服务商与实验室 SVG，以及来自官方站点或仓库的 benchmark 标识。
+
+新增的 11 项 benchmark 资源位于 [`benchmark-logo/`](benchmark-logo/README.md)，提供 12 个 SVG（另保留 3 张原始 PNG 备份）；具体来源、主办方标识与独立 Logo 的区别见该目录说明及 `sources.json`。下文为原有 models.dev 资源的说明。
 
 | 目录 / 文件 | 数量 | 远端地址 | 说明 |
 |---|---|---|---|
